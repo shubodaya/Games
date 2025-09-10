@@ -43,6 +43,3 @@ python tictactoe.py
 - Adjust volume sliders
 - Play and check your results in the CSV log
 
-Adjust volume sliders
-
-Play and check your results in the CSV log
