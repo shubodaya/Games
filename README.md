@@ -28,5 +28,5 @@ If you’d like to add a new game or improve an existing one:
 - Create a branch for your feature
 - Submit a pull request
 
-License
+## License
 This project is open source under the MIT License.
